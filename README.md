@@ -11,3 +11,13 @@
 ![task5](./screenshot/task5.png)
 6. Melakukan join movies dan roles berdasarkan table actors
 ![task6](./screenshot/task6.png)
+7. Mendapatkan director, berapa genre yang di-direct
+![task7](./screenshot/task7.png)
+8. Mendapatkan actors yang memiliki roles lebih dari 5
+![task8](./screenshot/task8.png)
+9. Mendapatkan directors paling produktif sepanjang masa
+![task9](./screenshot/task9.png)
+10. Mendapatkan tahun tersibuk sepanjang masa
+![task10](./screenshot/task10.png)
+11. Mendapatkan movies dengan genres yang dibuatkan menjadi 1 column (value dipisahkan comma)
+![task11](./screenshot/task11.png) 
